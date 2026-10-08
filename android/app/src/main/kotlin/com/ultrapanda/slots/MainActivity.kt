@@ -1,4 +1,4 @@
-package com.ultrapanda.ultra_panda
+package com.ultrapanda.slots
 
 import io.flutter.embedding.android.FlutterActivity
 
